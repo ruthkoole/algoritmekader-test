@@ -44,8 +44,8 @@ nav:
         - bouwblokken/index.md
         - Conformiteitsbeoordeling:
             - bouwblokken/conformiteitsbeoordeling/index.md
-            - bouwblokken/conformiteitsbeoordeling/toezicht.md
             - bouwblokken/conformiteitsbeoordeling/audit.md
+            - bouwblokken/conformiteitsbeoordeling/toezicht.md
         - Data:
             - bouwblokken/data/index.md
             - bouwblokken/data/data kwaliteit.md
@@ -72,7 +72,6 @@ nav:
 
 # Extra opties
 markdown_extensions: 
-    #  voor het maken van tabs
     - pymdownx.tabbed:
         alternate_style: true
     - pymdownx.superfences
@@ -90,12 +89,14 @@ markdown_extensions:
         auto_append:
             - includes/abbreviations.md
 
+# Extra opties voor footer
 extra:
-
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/MinBZK/Algoritmekader
 
+plugins:
+    - glightbox
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/ruthkoole/algoritmekader-test
