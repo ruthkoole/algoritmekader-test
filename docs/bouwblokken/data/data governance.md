@@ -1,7 +1,10 @@
-# Fairness
+---
+title: Data governance
+summary: hier staat een korte samenvatting over dit onderwerp
+---
 
 ## Waarom?
-Schrijf hier een tekst over wat fairness is en waarom dit belangrijk is voor een verantwoord gebruik van algoritmes bij overheidsorganisaties. 
+Schrijf hier een tekst over wat [title] is en waarom dit belangrijk is voor een verantwoord gebruik van algoritmes bij overheidsorganisaties. 
 
 ## Normen
 

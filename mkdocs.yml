@@ -1,13 +1,101 @@
 ### Site metadata ###
 
-site_name: Algoritmekader concept
+site_name: Algoritmekader [concept]
 site_description: Concept van het algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
+# watch:
+#     - includes/
 
-### Build settings ###
+### theme settings ###
+theme: 
+    name: material
+    language: nl
+    palette:
+        primary: blue
+    features:
+        - navigation.indexes
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.path
+        - navigation.top
+        - navigation.tracking
+        # - navigation.footer
+        - search.highlight
+        - search.share
+        - search.suggest
+    icon:
+        logo: fontawesome/solid/house
+        annotation: fontawesome/solid/circle-info
 
-theme: bootstrap
-
+# Navigation for the site 
 nav:
     - Home: index.md
-  
-repo_url: https://github.com/MinBZK/Algoritmekader
+    - Over het algoritmekader: overhetalgoritmekader.md
+    - Levenscyclus:
+        - levenscyclus/index.md 
+        - levenscyclus/probleemanalyse.md
+        - levenscyclus/ontwerp.md
+        - levenscyclus/data verkenning en data preparatie.md
+        - levenscyclus/ontwikkelen.md
+        - levenscyclus/validatie.md
+        - levenscyclus/implementatie.md
+        - levenscyclus/monitoren.md
+        - levenscyclus/archiveren.md
+    - Bouwblokken:
+        - bouwblokken/index.md
+        - Conformiteitsbeoordeling:
+            - bouwblokken/conformiteitsbeoordeling/index.md
+            - bouwblokken/conformiteitsbeoordeling/toezicht.md
+            - bouwblokken/conformiteitsbeoordeling/audit.md
+        - Data:
+            - bouwblokken/data/index.md
+            - bouwblokken/data/data kwaliteit.md
+            - bouwblokken/data/data governance.md
+        - Duurzaamheid:
+            - bouwblokken/duurzaamheid/index.md
+        - Fundamentele rechten:
+            - bouwblokken/fundamentele rechten/index.md
+        - Governance:
+          - bouwblokken/governance/index.md
+        - Inkoop:
+          - bouwblokken/inkoop/index.md
+        - Menselijke controle:
+          - bouwblokken/menselijke controle/index.md
+        - Privacy en gegevensbescherming:
+          - bouwblokken/privacy en gegevensbescherming/index.md
+        - Technische robuustheid en veiligheid:
+          - bouwblokken/technische robuustheid en veiligheid/index.md
+        - Transparantie:
+          - bouwblokken/transparantie/index.md
+    - Normen:
+        - normen/index.md
+        - normen/norm1.md
+
+# Extra opties
+markdown_extensions: 
+    #  voor het maken van tabs
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.superfences
+    - pymdownx.details
+    - admonition
+    - attr_list
+    - abbr
+    - md_in_html
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.snippets:
+        auto_append:
+            - includes/abbreviations.md
+
+extra:
+
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/MinBZK/Algoritmekader
+
+
+# Link naar GitHub repo (nu nog even mijn eigen repo)
+repo_url: https://github.com/ruthkoole/algoritmekader-test
