@@ -69,8 +69,7 @@ nav:
     - Normen:
         - normen/index.md
         - normen/norm1.md
-    - Instrumenten: 
-        - instrumenten/index.md
+    - Instrumenten: instrumenten/index.md
 
 # Extra opties
 markdown_extensions: 
