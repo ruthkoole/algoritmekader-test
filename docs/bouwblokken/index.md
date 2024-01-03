@@ -15,7 +15,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
     [:octicons-arrow-right-24: audit]( ../bouwblokken/conformiteitsbeoordeling/audit.md)
 
-    [:octicons-arrow-right-24: toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezciht.md)
+    [:octicons-arrow-right-24: toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
 
 -   :fontawesome-solid-database:{ .lg .middle } __Data__
 

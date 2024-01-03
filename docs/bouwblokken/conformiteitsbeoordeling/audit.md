@@ -32,6 +32,7 @@ Een overzicht van welke fasen van de levenscyclus relevant zijn voor dit bouwblo
 Onderstaand een overzicht van de minimale vereisten die volgen uit geldende wet- en regelgeving, toetingskaders en andere bronnen
 
 === "Laag risico" 
+
     | **Norm**                          | **Uitleg**                               | **Bron** |
     |-----------------------------------|------------------------------------------|----------|
     | [Norm 1](../../normen/norm1.md)    | Korte uitleg over norm 1                |          |
