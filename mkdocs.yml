@@ -68,7 +68,8 @@ nav:
           - bouwblokken/transparantie/index.md
     - Normen:
         - normen/index.md
-        - normen/norm1.md
+        - Transparantie:   
+            - normen/transparantie/norm1.md
     - Instrumenten: instrumenten/index.md
 
 # Extra opties
