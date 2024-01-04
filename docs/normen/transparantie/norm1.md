@@ -1,5 +1,5 @@
 ---
-title: 1. Informeren van gebruikers
+title: 1. Informeren van betrokkenen
 ---
 
 ## Norm
@@ -10,7 +10,7 @@ Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt midd
 
 ## Bronnen
 
-#### Bestaande wet- en regelgeving
+#### Wet- en regelgeving
 - [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 52
 
 - [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 12-14
