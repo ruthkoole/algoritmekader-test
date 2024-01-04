@@ -26,10 +26,10 @@ In de communicatie over besluiten die genomen zijn op basis van het algoritme ka
 ## Rollen
 Hieronder beschrijven we welke rollen er betrokken kunnen worden bij de uitvoering van deze norm. 
 
-### Communicatieadviseur 
+- **Communicatieadviseur:**
 Betrek de communicatieadviseur om duidelijk te communiceren naar de burger. 
 
-### Projectleider
+- **Projectleider:**
 De projectleider kent de inhoud van het algoritme en de werking ervan. 
 
 ## Best practices
