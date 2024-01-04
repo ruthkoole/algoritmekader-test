@@ -1,6 +1,3 @@
 ---
-title: Ontwerp
-summary: hier staat een korte samenvatting over dit onderwerp
----
-
-Hallo hallo
+# Ontwerp
+Hier wordt het conceptuele ontwerp van het AI-systeem gemaakt. Dit omvat het bepalen van de architectuur, algoritmen en benodigde middelen voor de implementatie.

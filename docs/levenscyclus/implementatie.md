@@ -1,6 +1,3 @@
 ---
-title: Implementatie
-summary: hier staat een korte samenvatting over dit onderwerp
----
-
-Hallo hallo
+# Implementatie
+In deze fase wordt het AI-model in de praktijk gebracht en geïntegreerd in het bedrijfsproces. Het wordt operationeel en begint te werken met echte gegevens.
