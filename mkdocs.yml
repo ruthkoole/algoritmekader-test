@@ -20,7 +20,6 @@ theme:
         - navigation.tracking
         # - navigation.footer
         - search.highlight
-        - search.share
         - search.suggest
     icon:
         logo: fontawesome/solid/house
@@ -101,6 +100,7 @@ extra:
 
 plugins:
     - glightbox
+    - search
 
 # Link naar GitHub repo (nu nog even mijn eigen repo)
 repo_url: https://github.com/ruthkoole/algoritmekader-test
