@@ -9,13 +9,16 @@ title: 1. Informeren van gebruikers
 Betrokkenen zijn niet op de hoogte dat hun persoonsgegevens worden verwerkt middels een algoritme, waardoor zij geen controle hebben.
 
 ## Bronnen
-- [AI Act, artikel 52](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf)
 
-- [Toetsingskader Algemene Rekenkamer, 2.23](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader)
+#### Bestaande wet- en regelgeving
+- [AI Act](https://artificialintelligenceact.eu/wp-content/uploads/2023/08/AI-Mandates-20-June-2023.pdf), artikel 52
 
-- [Onderzoekskader Algoritmes, Auditdienst Rijk, PRI.8](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file)
+- [Algemene Verordening Gegevensbescherming (AVG)](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313), artikel 12-14
 
-- [Algemene Verordening Gegevensbescherming (AVG), artikel 12-14](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=CELEX:32016R0679&qid=1685451198313)
+#### Toetsingskaders
+- [Toetsingskader Algemene Rekenkamer](https://www.rekenkamer.nl/onderwerpen/algoritmes-digitaal-toetsingskader), 2.23
+
+- [Onderzoekskader Algoritmes, Auditdienst Rijk](https://open.overheid.nl/documenten/61b54381-d331-40ed-8fce-b2883b195f25/file), PRI.8
 
 ## Uitleg
 Het moet voor burgers die te maken hebben met algoritmes duidelijk zijn
