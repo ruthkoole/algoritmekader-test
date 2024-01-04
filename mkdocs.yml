@@ -29,7 +29,9 @@ theme:
 # Navigation for the site 
 nav:
     - Home: index.md
-    - Over het algoritmekader: overhetalgoritmekader.md
+    - Over het algoritmekader: 
+        - overhetalgoritmekader/index.md
+        - overhetalgoritmekader/definities.md
     - Levenscyclus:
         - levenscyclus/index.md 
         - levenscyclus/probleemanalyse.md
