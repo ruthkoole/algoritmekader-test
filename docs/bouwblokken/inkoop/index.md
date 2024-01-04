@@ -10,27 +10,29 @@ Het inkopen en aanbieden van algoritmes en kunstmatige intelligentie is complex 
 # **Levenscyclus**
 Het inkopen van algoritmen en kunstmatige intelligentie door overheidsinstellingen is sterk afhankelijk van de vraag. In sommige gevallen wordt gevraagd of een een ‘kant-en-klare’ oplossing kan worden ingekocht, omdat duidelijk is dat dit direct ondersteunt bij het uitvoeren van de wettelijke taak. In andere gevallen is het noodzakelijk dat het benodigde product uit de markt eerst moet worden aangepast voordat het kan worden gebruikt óf dat een geheel nieuw product wordt ontwikkeld. Dit is heeft invloed op de 'fase van de levenscyclus waarin het in te kopen algoritmen of de kunstmatige intelligentie zich bevindt. Dit heeft vervolgens weer invloed op de werkzaamheden die moeten worden uitgevoerd om het beoogde algoritme of kunstmatige intelligentie verantwoorde te ontwikkelen en om te kunnen gebruiken, waar afspraken over moeten wordne gemaakt. Dit wordt hieronder per fase toegelicht. 
 
-## **Fase: Probleem analyse**
+## **Probleem analyse**
 
 
-## **Fase: Ontwerp**
-
-
-
-## **Fase: Data verkennen en (data)preparatie**
+## **Ontwerp**
 
 
 
-## **Fase: Ontwikkelen**
+## **Data verkennen en (data)preparatie**
+
+
+
+## **Ontwikkelen**
 
 
 
 
-## **Fase: Validatie**
+## **Validatie**
 
 
 
-## **Fase: Implementatie**
+## **Implementatie**
+
+
 
 # **Normen**
 
@@ -63,7 +65,10 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 - __jurist__ beschijf waarom deze rol belangrijk is
 
 </div>
+
 # Best practices
+
+
 !!! example "Voorbeeld"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et
@@ -76,5 +81,6 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
     euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
     purus auctor massa, nec semper lorem quam in massa.
 
+# Ervaringen
 
 Je kan ook dingen **dikgedrukt** maken. 
