@@ -2,6 +2,15 @@
 
 **Welkom op de Github repo voor het algoritmekader!**
 
+## Algoritmekader
+
+Het ministerie van BZK gaat aan de slag met een Algoritmekader. Het doel daarvan is om overheden op praktische wijze te ondersteunen, zodat zij op een wettige en ethisch verantwoorde wijze algoritmes en AI-systemen gebruiken.
+
+Belangrijk uitgangspunt bij de ontwikkeling van het kader is om zoveel mogelijk gebruik te maken van de kennis en kunde die er al is. En nadenken over hoe bestaande informatie geordend kan worden. Het kader kan daar een handig hulpmiddel voor zijn. Het is belangrijk om bij de inzet van algoritmes in alle fasen te weten welke stappen van belang zijn. De verschillende stappen zijn een goed uitgangspunt voor de ontwikkeling van het Algoritmekader.
+
+## Disclaimer
+Het Algoritmekader is nog volop in ontwikkeling. Op deze Github willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten.
+
 ## Hoe kan je bijdragen aan de ontwikkeling van het algortimekader?
 
 We ontwikkelen het algoritmekader open source via GitHub. Voor de documentatie maken we gebruik van [Markdown](https://www.markdownguide.org/basic-syntax/) bestanden. Dit bestandsformaat wordt door veel verschillende tools ondersteund, en maakt het eenvoudig versiebeheer op het algoritmekader toe te passen. Hierdoor hebben we grip op reviews en verschillende versies van het kader.
