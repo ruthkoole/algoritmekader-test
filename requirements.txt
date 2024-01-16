@@ -1,7 +1,6 @@
-mkdocs
+mkdocs=="1.5.3"
+mkdocs-material=="9.*"
 mkdocs-glightbox
-mkdocs-material
-mkdocs-static-i18n 
 mkdocs-material-extensions 
 mkdocs-minify-plugin 
 pymdown-extensions
