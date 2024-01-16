@@ -1,10 +1,8 @@
 mkdocs
 mkdocs-glightbox
 mkdocs-material
-pymdown-extensions
-mkdocs 
-mkdocs-material
 mkdocs-static-i18n 
 mkdocs-material-extensions 
 mkdocs-minify-plugin 
 mkdocs-markdownextradata-plugin
+pymdown-extensions
