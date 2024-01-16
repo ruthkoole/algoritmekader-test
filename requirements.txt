@@ -1,6 +1,4 @@
 mkdocs
 mkdocs-glightbox
 mkdocs-material
-mkdocs-material-extensions
 pymdown-extensions
-Jinja2>=2.11.1

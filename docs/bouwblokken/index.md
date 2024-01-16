@@ -7,7 +7,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-square-check:{ .lg .middle } __Conformiteitsbeoordeling__
+-   __Conformiteitsbeoordeling__
 
     ---
 
@@ -17,7 +17,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
     [:octicons-arrow-right-24: toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
 
--   :fontawesome-solid-database:{ .lg .middle } __Data__
+-   __Data__
 
     ---
 
@@ -27,7 +27,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
     [:octicons-arrow-right-24: data governance](../bouwblokken/data/data%20governance.md)
 
--   :fontawesome-solid-leaf:{ .lg .middle } __Duurzaamheid__
+-   __Duurzaamheid__
 
     ---
 
@@ -35,7 +35,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
     [:octicons-arrow-right-24: Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
--   :material-scale-balance:{ .lg .middle } __Fundamentele rechen__
+-   __Fundamentele rechen__
 
     ---
 
