@@ -4,5 +4,4 @@ mkdocs-material
 mkdocs-static-i18n 
 mkdocs-material-extensions 
 mkdocs-minify-plugin 
-mkdocs-markdownextradata-plugin
 pymdown-extensions
