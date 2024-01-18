@@ -7,7 +7,7 @@ Hier komt een beschrijving van de welke bouwblokken er zijn.
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-square-check:{ .lg .middle } __Conformiteitsbeoordeling__
+-   :fontawesome-solid-square-check: __Conformiteitsbeoordeling__
 
     ---
 
