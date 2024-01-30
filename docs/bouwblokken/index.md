@@ -3,44 +3,57 @@ title: Bouwblokken
 summary: Hier staat een korte samenvatting over dit onderwerp
 ---
 
-Hier komt een beschrijving van de welke bouwblokken er zijn.
+Bij het algoritmekader hebben we 10 bouwblokken gedefinieerd. Deze bouwblokken geven structuur aan het algoritmekader. 
 
-<div class="grid cards" markdown>
+### :fontawesome-solid-square-check: [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
 
--   __Conformiteitsbeoordeling__
+- [audit]( ../bouwblokken/conformiteitsbeoordeling/audit.md)
 
-    ---
+- [toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
 
-    Conformiteitsbeoordeling is belangrijk omdat ... . Dit bouwblok is opgesplitst in de onderwerpen:
+--- 
 
-    [:octicons-arrow-right-24: audit]( ../bouwblokken/conformiteitsbeoordeling/audit.md)
+### :fontawesome-solid-database: [Data](../bouwblokken/data/index.md)
 
-    [:octicons-arrow-right-24: toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
+- [data kwaliteit](../bouwblokken/data/data%20kwaliteit.md)
 
--   __Data__
+- [data governance](../bouwblokken/data/data%20governance.md)
 
-    ---
+---
 
-    Data is een belangrijk onderwerp voor de verantwoorde inzet van algoritmes. In dit bouwblok zitten de volgende onderwerpen.
+### :fontawesome-solid-leaf: [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
 
-    [:octicons-arrow-right-24: data kwaliteit](../bouwblokken/data/data%20kwaliteit.md)
+--- 
 
-    [:octicons-arrow-right-24: data governance](../bouwblokken/data/data%20governance.md)
+### :material-scale-balance: [Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
 
--   __Duurzaamheid__
+- [non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
 
-    ---
+---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+### :fontawesome-solid-building-columns: [Governance](../bouwblokken/governance/index.md)
 
-    [:octicons-arrow-right-24: Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+---
 
--   __Fundamentele rechen__
+### :fontawesome-solid-cart-shopping: [Inkoop](../bouwblokken/inkoop/index.md)
 
-    ---
+---
 
-    Voorbeeld van het blok fundamentele rechten, dat ongetwijfeld nog verschillende onderwerpen zal bevatten. 
+### :fontawesome-solid-person-circle-check: [Menselijke controle](../bouwblokken/menselijke%20controle/index.md)
 
-    [:octicons-arrow-right-24: Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
+---
 
-</div>
+### :fontawesome-solid-lock: [Privacy en gegevensbescherming](../bouwblokken/privacy%20en%20gegevensbescherming/index.md)
+
+---
+
+### :fontawesome-solid-gear: [Technische robuustheid en veiligheid](../bouwblokken/technische%20robuustheid%20en%20veiligheid/index.md)
+
+---
+
+### :fontawesome-solid-magnifying-glass: [Transparantie](../bouwblokken/transparantie/index.md)
+
+!!! info "Disclaimer"
+
+    Het Algoritmekader is nog volop in ontwikkeling. Op deze plek willen we vooral aan de slag gaan op een open en transparante wijze. Het is dus niet definitief. Dat betekent dat er dingen opstaan die niet af zijn en soms zelfs fout. Mocht er iets niet kloppen, laat het ons weten via [GitHub](https://github.com/MinBZK/Algoritmekader).
+
