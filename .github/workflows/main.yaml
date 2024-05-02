@@ -9,7 +9,7 @@ jobs:
     name: pages-build-deployment
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
+      - name: Checkout main/v1.1
         uses: actions/checkout@v4
 
       - name: Deploy MkDocs
